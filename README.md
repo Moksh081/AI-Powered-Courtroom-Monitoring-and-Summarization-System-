@@ -32,7 +32,7 @@ This project aims to automate courtroom documentation using advanced AI techniqu
 
 ---
 
-![image](https://github.com/user-attachments/assets/7acc0705-e3f1-48f8-acbd-e4a4b552b069)
+![image](https://github.com/user-attachments/assets/123e56b9-2ea5-4c8b-94b9-04b396b78297)
 
 
 ## 🗂️ Dataset Details
@@ -83,5 +83,6 @@ This project aims to automate courtroom documentation using advanced AI techniqu
 |                   | Compression Ratio     | **0.2765**                 | Summary is \~72% shorter than original      |
 | **Pipeline**      | Latency               | **\~audio duration + 15s** | Near real-time                              |
 
-![image](https://github.com/user-attachments/assets/123e56b9-2ea5-4c8b-94b9-04b396b78297)
+![image](https://github.com/user-attachments/assets/7acc0705-e3f1-48f8-acbd-e4a4b552b069)
+
 
