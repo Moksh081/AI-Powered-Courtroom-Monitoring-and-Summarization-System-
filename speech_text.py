@@ -8,7 +8,7 @@ import threading
 import sys
 
 # === ASSEMBLYAI SETUP ===
-API_KEY = "e73cfb30a1a9486bb8f2488172feaa12"
+API_KEY = "#"
 aai.settings.api_key = API_KEY
 
 def list_audio_devices():
