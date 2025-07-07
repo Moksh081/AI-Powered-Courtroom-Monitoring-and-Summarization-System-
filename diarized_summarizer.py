@@ -3,7 +3,7 @@ import openai
 import pandas as pd
 
 # Set your Groq API key (replace with your secure method in production)
-openai.api_key = "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"
+openai.api_key = "#"
 
 # Path to diarized transcript files
 diary_folder = os.path.join(os.path.dirname(__file__), '..', 'Speech_to_Text')
